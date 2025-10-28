@@ -14,7 +14,7 @@
       "label": "Header",
       "required": true,
       "properties": {},
-      "schemaRef": "obj-blog-header",
+      "schemaRef": "obj-header",
       "description": "The blog's header: it should attract the visitors interest."
     },
     "content": {
