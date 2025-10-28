@@ -32,16 +32,24 @@
     },
     "technologies": [
       "React",
-      "Vite"
+      "Vite",
+      "Node.js",
+      "TypeScript",
+      "TailwindCSS",
+      "Framer Motion",
+      "Gemini AI API",
+      "Express.js"
     ],
     "githubUrl": "",
     "liveUrl": "https://daim.bestplayer.dev/",
-    "metadata": {}
+    "metadata": {
+      "priority": 1
+    }
   },
   "metadata": {
     "id": "daim",
     "createdAt": "2025-10-28T18:09:35.912Z",
-    "updatedAt": "2025-10-28T18:28:41.643Z",
+    "updatedAt": "2025-10-28T19:48:21.888Z",
     "status": "published",
     "publishedAt": "2025-10-28T18:28:41.643Z"
   }
