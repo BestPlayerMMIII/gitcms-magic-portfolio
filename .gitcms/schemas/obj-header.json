@@ -1,9 +1,9 @@
 {
   "id": "obj-header",
   "metadata": {
-    "name": "Blog Header",
+    "name": "Post Header",
     "version": "1.0.0",
-    "description": "This is a GitCMS object schema to get a standard and complete Blog Header, the captivating section of every blog.\nIt's composed of: title, excerpt, main image and tags.",
+    "description": "This is a GitCMS object schema to get a standard and complete Post Header, the captivating section of every post.\nIt's composed of: title, excerpt, main image and tags.",
     "category": "gitcms-object",
     "createdAt": "2025-09-18T11:30:33.631Z",
     "updatedAt": "2025-09-18T11:30:33.631Z"
