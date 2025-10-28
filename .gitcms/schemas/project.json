@@ -1,0 +1,73 @@
+{
+  "id": "project",
+  "metadata": {
+    "name": "Project",
+    "version": "1.0.0",
+    "description": "Represents a completed or ongoing project, showcasing skills and technologies used.",
+    "category": "post",
+    "createdAt": "2025-10-28T15:44:59.838Z",
+    "updatedAt": "2025-10-28T15:44:59.838Z"
+  },
+  "fields": {
+    "header": {
+      "type": "object",
+      "label": "Header",
+      "required": true,
+      "properties": {},
+      "schemaRef": "obj-blog-header",
+      "description": "The project's header: it should attract the visitors interest."
+    },
+    "technologies": {
+      "type": "array",
+      "label": "Technologies",
+      "required": true,
+      "items": {
+        "type": "string",
+        "label": "Item",
+        "description": "Technology used: useful to show your technical skills",
+        "placeholder": "Enter technology...",
+        "maxLength": 255
+      },
+      "description": "The tech stack or tools used in this project",
+      "uniqueItems": true
+    },
+    "githubUrl": {
+      "type": "string",
+      "label": "GitHub URL",
+      "required": false,
+      "description": "Link to the project's GitHub repository.",
+      "placeholder": "Enter https://github.com/username/repo...",
+      "pattern": "^https?://.*$",
+      "validation": [
+        {
+          "type": "pattern",
+          "value": "^https?://.*$",
+          "message": "Must match url format"
+        }
+      ]
+    },
+    "liveUrl": {
+      "type": "string",
+      "label": "Live URL",
+      "required": false,
+      "description": "Link to a live demo or deployed version of the project",
+      "placeholder": "Enter url...",
+      "pattern": "^https?://.*$",
+      "validation": [
+        {
+          "type": "pattern",
+          "value": "^https?://.*$",
+          "message": "Must match url format"
+        }
+      ]
+    },
+    "metadata": {
+      "type": "object",
+      "label": "Metadata",
+      "required": true,
+      "properties": {},
+      "schemaRef": "post-metadata",
+      "description": "Custom metadata to personalize even more your projects"
+    }
+  }
+}
