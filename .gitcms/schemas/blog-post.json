@@ -4,7 +4,7 @@
     "name": "Blog Post",
     "version": "1.0.0",
     "description": "A standard schema for blog posts, with header and rich text content.",
-    "category": "blog",
+    "category": "post",
     "createdAt": "2025-09-18T12:50:21.854Z",
     "updatedAt": "2025-09-18T12:50:21.854Z"
   },
