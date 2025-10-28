@@ -1,0 +1,17 @@
+{
+  "id": "daim",
+  "schemaId": "project",
+  "data": {
+    "header": {},
+    "technologies": [],
+    "githubUrl": "",
+    "liveUrl": "https://daim.bestplayer.dev/",
+    "metadata": {}
+  },
+  "metadata": {
+    "id": "daim",
+    "createdAt": "2025-10-28T18:09:35.912Z",
+    "updatedAt": "2025-10-28T18:09:35.912Z",
+    "status": "draft"
+  }
+}
