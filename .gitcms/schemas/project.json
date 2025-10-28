@@ -61,11 +61,17 @@
         }
       ]
     },
+    "overview": {
+      "type": "rich-text",
+      "label": "Overview",
+      "required": true,
+      "description": "A first section before quick links, which helps the users to dive into your project"
+    },
     "content": {
       "type": "rich-text",
       "label": "Content",
       "required": true,
-      "description": "The main content of the blog"
+      "description": "The main content of the project"
     },
     "metadata": {
       "type": "object",
