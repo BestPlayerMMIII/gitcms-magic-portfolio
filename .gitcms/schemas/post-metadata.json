@@ -1,0 +1,23 @@
+{
+  "id": "post-metadata",
+  "metadata": {
+    "name": "Post Metadata",
+    "version": "1.0.0",
+    "description": "This is a GitCMS object schema to get a standard and complete metadata structure, used to customize even more your posts in the portfolio.\nIt's composed of: priority.",
+    "category": "gitcms-object",
+    "createdAt": "2025-10-20T13:36:22.045Z",
+    "updatedAt": "2025-10-20T13:36:22.045Z"
+  },
+  "fields": {
+    "priority": {
+      "type": "number",
+      "label": "Display Priority",
+      "required": false,
+      "defaultValue": 1,
+      "min": 1,
+      "description": "The higher this value, the more important the post becomes, causing it to appear higher in its category list.\nIn the case of a tie in priority, posts with more recent publication dates are displayed first.",
+      "placeholder": "Enter priority, or leave empty for infinite priority...",
+      "precision": 1
+    }
+  }
+}

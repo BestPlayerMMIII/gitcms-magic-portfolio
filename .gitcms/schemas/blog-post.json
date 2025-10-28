@@ -1,0 +1,35 @@
+{
+  "id": "blog-post",
+  "metadata": {
+    "name": "Blog Post",
+    "version": "1.0.0",
+    "description": "A standard schema for blog posts, with header and rich text content.",
+    "category": "blog",
+    "createdAt": "2025-09-18T12:50:21.854Z",
+    "updatedAt": "2025-09-18T12:50:21.854Z"
+  },
+  "fields": {
+    "header": {
+      "type": "object",
+      "label": "Header",
+      "required": true,
+      "properties": {},
+      "schemaRef": "obj-blog-header",
+      "description": "The blog's header: it should attract the visitors interest."
+    },
+    "content": {
+      "type": "rich-text",
+      "label": "Content",
+      "required": true,
+      "description": "The main content of the blog"
+    },
+    "metadata": {
+      "type": "object",
+      "label": "Metadata",
+      "required": true,
+      "properties": {},
+      "schemaRef": "post-metadata",
+      "description": "Custom metadata to personalize even more your blog posts"
+    }
+  }
+}

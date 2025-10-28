@@ -1,0 +1,19 @@
+{
+  "id": "html",
+  "metadata": {
+    "name": "Generic Content",
+    "version": "1.0.0",
+    "description": "Use this schema to create generic content, with just a rich-text editor.",
+    "category": "content",
+    "createdAt": "2025-10-21T11:00:17.865Z",
+    "updatedAt": "2025-10-21T11:00:17.865Z"
+  },
+  "fields": {
+    "content": {
+      "type": "rich-text",
+      "label": "Content",
+      "required": true,
+      "description": "The embedded content"
+    }
+  }
+}
