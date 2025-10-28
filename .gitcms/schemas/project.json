@@ -61,6 +61,12 @@
         }
       ]
     },
+    "content": {
+      "type": "rich-text",
+      "label": "Content",
+      "required": true,
+      "description": "The main content of the blog"
+    },
     "metadata": {
       "type": "object",
       "label": "Metadata",
