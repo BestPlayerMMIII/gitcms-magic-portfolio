@@ -1,0 +1,41 @@
+{
+  "id": "fun-fact",
+  "metadata": {
+    "name": "Fun Fact",
+    "version": "1.0.0",
+    "description": "A standard schema for fun facts, with content and category",
+    "category": "post",
+    "createdAt": "2025-10-28T15:28:43.686Z",
+    "updatedAt": "2025-10-28T15:28:43.686Z"
+  },
+  "fields": {
+    "content": {
+      "type": "text",
+      "label": "Content",
+      "required": true,
+      "maxLength": 300,
+      "description": "The fun fact: short and impactful",
+      "placeholder": "Enter..."
+    },
+    "category": {
+      "type": "select",
+      "label": "Category",
+      "required": true,
+      "options": [
+        {
+          "label": "personal",
+          "value": "personal"
+        },
+        {
+          "label": "technical",
+          "value": "technical"
+        },
+        {
+          "label": "random",
+          "value": "random"
+        }
+      ],
+      "description": "Type of fun fact"
+    }
+  }
+}
