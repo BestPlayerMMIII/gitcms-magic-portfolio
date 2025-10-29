@@ -13,19 +13,35 @@
         "content": "I’ve competed in problem-solving competitions and once ranked 4th in all of Lombardy. Basically, I like thinking outside the box… sometimes so far out it’s questionable.",
         "category": "random"
       },
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
+      {
+        "content": "I wasn’t always sure I’d end up in computer engineering. A year before choosing that field @PoliMi, I dreamed of working in a chemistry lab, mixing chemicals and discovering the next big reaction."
+      },
+      {
+        "content": "I owe my creativity to supportive teachers and a very permissive mom. At 16, I was experimenting at home. Once I turned copper sulfate and sodium bicarbonate into what I hope was copper carbonate.",
+        "category": "random"
+      },
+      {
+        "content": "My sports résumé is diverse: swimming at 4, then switched to football at 8 for five years, then rugby for another four. Basically, I spent my childhood and teenage years in water, on grass, or being tackled."
+      },
+      {
+        "content": "My favorite TV series? The first six seasons of Game of Thrones...",
+        "category": "random"
+      },
+      {
+        "content": "I enjoy video games of all kinds, but Skyrim holds a special place in my heart."
+      },
+      {
+        "content": "I eat pretty much everything, but my ultimate favorite meal exists in a sort of quantum superposition: sometimes it collapses to pizza, sometimes to sushi."
+      },
+      {
+        "content": "As a kid, I tried my hand at magic tricks with cards. Spoiler: I’m still better at coding than making rabbits appear out of hats."
+      }
     ]
   },
   "metadata": {
     "id": "fun-facts",
     "createdAt": "2025-10-29T23:23:21.048Z",
-    "updatedAt": "2025-10-29T23:25:38.899Z",
+    "updatedAt": "2025-10-29T23:35:04.425Z",
     "status": "draft"
   }
 }
