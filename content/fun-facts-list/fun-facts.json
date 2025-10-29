@@ -1,0 +1,17 @@
+{
+  "id": "fun-facts",
+  "schemaId": "fun-facts-list",
+  "data": {
+    "fun-facts": [
+      {
+        "content": "I fell in love with fantasy at age 11 with Harry Potter, and now I’m deep in Game of Thrones and The Lord of the Rings. Apparently, my childhood taste for magic turned into a lifelong subscription to dragons and political intrigue."
+      }
+    ]
+  },
+  "metadata": {
+    "id": "fun-facts",
+    "createdAt": "2025-10-29T23:23:21.048Z",
+    "updatedAt": "2025-10-29T23:23:21.048Z",
+    "status": "draft"
+  }
+}
