@@ -29,7 +29,8 @@
         "ai",
         "rpg",
         "game-engine",
-        "storytelling"
+        "storytelling",
+        "d&d"
       ]
     },
     "technologies": [
@@ -51,7 +52,7 @@
   "metadata": {
     "id": "daim",
     "createdAt": "2025-10-28T18:09:35.912Z",
-    "updatedAt": "2025-10-29T01:06:02.679Z",
+    "updatedAt": "2025-10-29T01:07:21.118Z",
     "status": "published",
     "publishedAt": "2025-10-28T18:28:41.643Z"
   }
