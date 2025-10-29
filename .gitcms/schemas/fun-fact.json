@@ -13,7 +13,7 @@
       "type": "text",
       "label": "Content",
       "required": true,
-      "maxLength": 300,
+      "maxLength": 400,
       "description": "The fun fact: short and impactful",
       "placeholder": "Enter..."
     },
