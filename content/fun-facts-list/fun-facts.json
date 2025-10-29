@@ -35,13 +35,18 @@
       },
       {
         "content": "As a kid, I tried my hand at magic tricks with cards. Spoiler: I’m still better at coding than making rabbits appear out of hats."
-      }
+      },
+      {},
+      {},
+      {},
+      {},
+      {}
     ]
   },
   "metadata": {
     "id": "fun-facts",
     "createdAt": "2025-10-29T23:23:21.048Z",
-    "updatedAt": "2025-10-29T23:40:22.870Z",
+    "updatedAt": "2025-10-29T23:52:40.352Z",
     "status": "draft"
   }
 }
