@@ -36,17 +36,30 @@
       {
         "content": "As a kid, I tried my hand at magic tricks with cards. Spoiler: I’m still better at coding than making rabbits appear out of hats."
       },
-      {},
-      {},
-      {},
-      {},
-      {}
+      {
+        "content": "My curiosity for programming beyond the C++ I learned in high school started on lazy Sunday afternoons. I couldn’t find the perfect game on Google Play, so I decided to try building it myself. That led me to learn Unity and eventually create one of my projects (Pin). The game I imagined is still only in my head, but the journey has been half the fun.",
+        "category": "technical"
+      },
+      {
+        "content": "I hold a BLS-D Certification, including AED usage training. Basically, I can code and potentially save a life (hopefully the person is in danger for reasons other than my code)"
+      },
+      {
+        "content": "Guided museum tours at the 'Collegiate' Museum, explaining art and history to visitors. Also managed bookings and basic accounting tasks.",
+        "category": "technical"
+      },
+      {
+        "content": "Organized and ran educational and recreational activities for children aged 11-13. Learned that creativity + patience = controlled chaos."
+      },
+      {
+        "content": "I enjoy solving LeetCode challenges and sometimes I even manage to submit the fastest solution. Yes, I quietly celebrate those small victories",
+        "category": "technical"
+      }
     ]
   },
   "metadata": {
     "id": "fun-facts",
     "createdAt": "2025-10-29T23:23:21.048Z",
-    "updatedAt": "2025-10-29T23:52:40.352Z",
+    "updatedAt": "2025-10-29T23:59:58.613Z",
     "status": "draft"
   }
 }
