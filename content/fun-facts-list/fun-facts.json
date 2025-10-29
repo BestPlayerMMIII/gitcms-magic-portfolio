@@ -9,13 +9,16 @@
       {
         "content": "I played piano for 4 years and clarinet for 2. So yes, I can both hit a perfect chord and hit the wrong note with style. My musical skills are now “vintage”"
       },
-      {}
+      {
+        "content": "I’ve competed in problem-solving competitions and once ranked 4th in all of Lombardy. Basically, I like thinking outside the box… sometimes so far out it’s questionable.",
+        "category": "random"
+      }
     ]
   },
   "metadata": {
     "id": "fun-facts",
     "createdAt": "2025-10-29T23:23:21.048Z",
-    "updatedAt": "2025-10-29T23:24:40.557Z",
+    "updatedAt": "2025-10-29T23:25:21.359Z",
     "status": "draft"
   }
 }
