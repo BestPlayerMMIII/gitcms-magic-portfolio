@@ -10,8 +10,8 @@
         "content": "I played piano for 4 years and clarinet for 2. So yes, I can both hit a perfect chord and hit the wrong note with style. My musical skills are now “vintage”"
       },
       {
-        "content": "I’ve competed in problem-solving competitions and once ranked 4th in all of Lombardy. Basically, I like thinking outside the box… sometimes so far out it’s questionable.",
-        "category": "random"
+        "content": "I’ve competed in problem-solving competitions and ranked 4th in all of Lombardy. Basically, I like thinking outside the box… sometimes so far out it’s questionable.",
+        "category": "technical"
       },
       {
         "content": "I wasn’t always sure I’d end up in computer engineering. A year before choosing that field @PoliMi, I dreamed of working in a chemistry lab, mixing chemicals and discovering the next big reaction."
@@ -41,7 +41,7 @@
   "metadata": {
     "id": "fun-facts",
     "createdAt": "2025-10-29T23:23:21.048Z",
-    "updatedAt": "2025-10-29T23:35:04.425Z",
+    "updatedAt": "2025-10-29T23:40:22.870Z",
     "status": "draft"
   }
 }
