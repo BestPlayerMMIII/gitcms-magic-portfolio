@@ -4,51 +4,60 @@
   "data": {
     "fun-facts": [
       {
-        "content": "I fell in love with fantasy at age 11 with Harry Potter, and now I’m deep in Game of Thrones and The Lord of the Rings. Apparently, my childhood taste for magic turned into a lifelong subscription to dragons and political intrigue."
+        "content": "I fell in love with fantasy at age 11 with Harry Potter, and now I’m deep in Game of Thrones and The Lord of the Rings. Apparently, my childhood taste for magic turned into a lifelong subscription to dragons and political intrigue.",
+        "category": "personal"
       },
       {
-        "content": "I played piano for 4 years and clarinet for 2. So yes, I can both hit a perfect chord and hit the wrong note with style. My musical skills are now “vintage”"
+        "content": "I played piano for 4 years and clarinet for 2. So yes, I can both hit a perfect chord and hit the wrong note with style. My musical skills are now “vintage”",
+        "category": "personal"
       },
       {
         "content": "I’ve competed in problem-solving competitions and ranked 4th in all of Lombardy. Basically, I like thinking outside the box… sometimes so far out it’s questionable.",
         "category": "technical"
       },
       {
-        "content": "I wasn’t always sure I’d end up in computer engineering. A year before choosing that field @PoliMi, I dreamed of working in a chemistry lab, mixing chemicals and discovering the next big reaction."
+        "content": "I wasn’t always sure I’d end up in computer engineering. A year before choosing that field @PoliMi, I dreamed of working in a chemistry lab, mixing chemicals and discovering the next big reaction.",
+        "category": "personal"
       },
       {
         "content": "I owe my creativity to supportive teachers and a very permissive mom. At 16, I was experimenting at home. Once I turned copper sulfate and sodium bicarbonate into what I hope was copper carbonate.",
         "category": "random"
       },
       {
-        "content": "My sports résumé is diverse: swimming at 4, then switched to football at 8 for five years, then rugby for another four. Basically, I spent my childhood and teenage years in water, on grass, or being tackled."
+        "content": "My sports résumé is diverse: swimming at 4, then switched to football at 8 for five years, then rugby for another four. Basically, I spent my childhood and teenage years in water, on grass, or being tackled.",
+        "category": "personal"
       },
       {
         "content": "My favorite TV series? The first six seasons of Game of Thrones...",
         "category": "random"
       },
       {
-        "content": "I enjoy video games of all kinds, but Skyrim holds a special place in my heart."
+        "content": "I enjoy video games of all kinds, but Skyrim holds a special place in my heart.",
+        "category": "personal"
       },
       {
-        "content": "I eat pretty much everything, but my ultimate favorite meal exists in a sort of quantum superposition: sometimes it collapses to pizza, sometimes to sushi."
+        "content": "I eat pretty much everything, but my ultimate favorite meal exists in a sort of quantum superposition: sometimes it collapses to pizza, sometimes to sushi.",
+        "category": "personal"
       },
       {
-        "content": "As a kid, I tried my hand at magic tricks with cards. Spoiler: I’m still better at coding than making rabbits appear out of hats."
+        "content": "As a kid, I tried my hand at magic tricks with cards. Spoiler: I’m still better at coding than making rabbits appear out of hats.",
+        "category": "personal"
       },
       {
         "content": "My curiosity for programming beyond the C++ I learned in high school started on lazy Sunday afternoons. I couldn’t find the perfect game on Google Play, so I decided to try building it myself. That led me to learn Unity and eventually create one of my projects (Pin). The game I imagined is still only in my head, but the journey has been half the fun.",
         "category": "technical"
       },
       {
-        "content": "I hold a BLS-D Certification, including AED usage training. Basically, I can code and potentially save a life (hopefully the person is in danger for reasons other than my code)"
+        "content": "I hold a BLS-D Certification, including AED usage training. Basically, I can code and potentially save a life (hopefully the person is in danger for reasons other than my code)",
+        "category": "personal"
       },
       {
         "content": "Guided museum tours at the 'Collegiate' Museum, explaining art and history to visitors. Also managed bookings and basic accounting tasks.",
         "category": "technical"
       },
       {
-        "content": "Organized and ran educational and recreational activities for children aged 11-13. Learned that creativity + patience = controlled chaos."
+        "content": "Organized and ran educational and recreational activities for children aged 11-13. Learned that creativity + patience = controlled chaos.",
+        "category": "personal"
       },
       {
         "content": "I enjoy solving LeetCode challenges and sometimes I even manage to submit the fastest solution. Yes, I quietly celebrate those small victories",
@@ -59,7 +68,8 @@
   "metadata": {
     "id": "fun-facts",
     "createdAt": "2025-10-29T23:23:21.048Z",
-    "updatedAt": "2025-10-29T23:59:58.613Z",
-    "status": "draft"
+    "updatedAt": "2025-10-30T00:19:30.825Z",
+    "status": "published",
+    "publishedAt": "2025-10-30T00:19:30.825Z"
   }
 }
