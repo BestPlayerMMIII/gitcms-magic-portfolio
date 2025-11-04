@@ -1,0 +1,29 @@
+{
+  "id": "magic-circle",
+  "schemaId": "3d-object",
+  "data": {
+    "model": {
+      "id": "media_1444119274_magiccircl",
+      "filename": "magic-circle-1762271985834.glb",
+      "originalName": "magic-circle-1762271985834.glb",
+      "path": "media/magic-circle-1762271985834.glb",
+      "size": 5642440,
+      "mimeType": "model/gltf-binary",
+      "mediaType": "other",
+      "url": "https://raw.githubusercontent.com/BestPlayerMMIII/gitcms-magic-portfolio/main/media/magic-circle-1762271985834.glb",
+      "metadata": {},
+      "uploadedAt": "2025-11-04T16:05:21.622Z",
+      "uploadedBy": "unknown",
+      "repository": {
+        "owner": "BestPlayerMMIII",
+        "repo": "gitcms-magic-portfolio"
+      }
+    }
+  },
+  "metadata": {
+    "id": "magic-circle",
+    "createdAt": "2025-11-04T16:05:29.480Z",
+    "updatedAt": "2025-11-04T16:05:29.480Z",
+    "status": "draft"
+  }
+}
