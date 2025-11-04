@@ -23,7 +23,8 @@
   "metadata": {
     "id": "room",
     "createdAt": "2025-11-04T15:45:46.499Z",
-    "updatedAt": "2025-11-04T15:45:46.499Z",
-    "status": "draft"
+    "updatedAt": "2025-11-04T15:46:00.111Z",
+    "status": "published",
+    "publishedAt": "2025-11-04T15:46:00.111Z"
   }
 }
