@@ -1,0 +1,29 @@
+{
+  "id": "room",
+  "schemaId": "3d-object",
+  "data": {
+    "model": {
+      "id": "media_37500529_room176227",
+      "filename": "room-1762271038466.glb",
+      "originalName": "room-1762271038466.glb",
+      "path": "media/room-1762271038466.glb",
+      "size": 10947796,
+      "mimeType": "model/gltf-binary",
+      "mediaType": "other",
+      "url": "https://raw.githubusercontent.com/BestPlayerMMIII/gitcms-magic-portfolio/main/media/room-1762271038466.glb",
+      "metadata": {},
+      "uploadedAt": "2025-11-04T15:45:38.758Z",
+      "uploadedBy": "unknown",
+      "repository": {
+        "owner": "BestPlayerMMIII",
+        "repo": "gitcms-magic-portfolio"
+      }
+    }
+  },
+  "metadata": {
+    "id": "room",
+    "createdAt": "2025-11-04T15:45:46.499Z",
+    "updatedAt": "2025-11-04T15:45:46.499Z",
+    "status": "draft"
+  }
+}
