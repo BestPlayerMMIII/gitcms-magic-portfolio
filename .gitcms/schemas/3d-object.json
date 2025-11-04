@@ -1,0 +1,29 @@
+{
+  "id": "3d-object",
+  "metadata": {
+    "name": "3D Object",
+    "version": "1.0.0",
+    "description": "A simple 3D object reference",
+    "category": "content",
+    "createdAt": "2025-11-04T15:37:23.686Z",
+    "updatedAt": "2025-11-04T15:37:23.686Z"
+  },
+  "fields": {
+    "id": {
+      "type": "string",
+      "label": "ID",
+      "required": true,
+      "description": "The unique model name for this object",
+      "placeholder": "Enter ID..."
+    },
+    "model": {
+      "type": "media",
+      "label": "3D Model",
+      "required": true,
+      "description": "The actual 3d model as GLB file",
+      "accept": [
+        ".glb"
+      ]
+    }
+  }
+}
