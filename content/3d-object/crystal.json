@@ -1,0 +1,29 @@
+{
+  "id": "crystal",
+  "schemaId": "3d-object",
+  "data": {
+    "model": {
+      "id": "media_947403065_crystal176",
+      "filename": "crystal-1762272057809.glb",
+      "originalName": "crystal-1762272057809.glb",
+      "path": "media/crystal-1762272057809.glb",
+      "size": 3267072,
+      "mimeType": "model/gltf-binary",
+      "mediaType": "other",
+      "url": "https://raw.githubusercontent.com/BestPlayerMMIII/gitcms-magic-portfolio/main/media/crystal-1762272057809.glb",
+      "metadata": {},
+      "uploadedAt": "2025-11-04T16:03:14.580Z",
+      "uploadedBy": "unknown",
+      "repository": {
+        "owner": "BestPlayerMMIII",
+        "repo": "gitcms-magic-portfolio"
+      }
+    }
+  },
+  "metadata": {
+    "id": "crystal",
+    "createdAt": "2025-11-04T16:03:20.263Z",
+    "updatedAt": "2025-11-04T16:03:20.263Z",
+    "status": "draft"
+  }
+}
