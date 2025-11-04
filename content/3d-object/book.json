@@ -23,7 +23,8 @@
   "metadata": {
     "id": "book",
     "createdAt": "2025-11-04T16:02:28.716Z",
-    "updatedAt": "2025-11-04T16:02:28.716Z",
-    "status": "draft"
+    "updatedAt": "2025-11-04T16:04:08.153Z",
+    "status": "published",
+    "publishedAt": "2025-11-04T16:04:08.153Z"
   }
 }
