@@ -1,0 +1,18 @@
+{
+  "id": "3d-objects",
+  "metadata": {
+    "name": "3D Objects",
+    "version": "1.0.0",
+    "description": "The list of 3D objects used in the portfolio to create the 3D environment",
+    "category": "content",
+    "createdAt": "2025-11-04T15:36:22.719Z",
+    "updatedAt": "2025-11-04T15:36:22.719Z"
+  },
+  "fields": {
+    "field_1762270632262": {
+      "type": "string",
+      "label": "",
+      "required": false
+    }
+  }
+}
