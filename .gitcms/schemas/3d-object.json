@@ -13,10 +13,7 @@
       "type": "media",
       "label": "3D Model",
       "required": true,
-      "description": "The actual 3d model as GLB file",
-      "accept": [
-        "model"
-      ]
+      "description": "The actual 3d model as GLB file"
     }
   }
 }
