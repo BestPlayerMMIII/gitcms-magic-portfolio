@@ -46,13 +46,13 @@
     "githubUrl": "",
     "liveUrl": "https://daim.bestplayer.dev/",
     "metadata": {
-      "priority": 1
+      "priority": 2
     }
   },
   "metadata": {
     "id": "daim",
     "createdAt": "2025-10-28T18:09:35.912Z",
-    "updatedAt": "2025-11-05T00:57:11.579Z",
+    "updatedAt": "2025-11-05T02:04:53.792Z",
     "status": "published",
     "publishedAt": "2025-10-28T18:28:41.643Z"
   }
