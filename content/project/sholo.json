@@ -4,7 +4,7 @@
   "data": {
     "header": {
       "title": "SHolo",
-      "excerpt": "Control a 3D object in real-time using only hand gestures and eye movements through a standard webcam — exploring computer vision and gesture tracking.",
+      "excerpt": "Control a 3D object in real-time using only hand gestures and eye movements through a standard webcam: exploring computer vision and gesture tracking.",
       "tags": [
         "ar",
         "vr",
@@ -45,7 +45,7 @@
   "metadata": {
     "id": "sholo",
     "createdAt": "2025-10-30T17:46:48.681Z",
-    "updatedAt": "2025-11-05T02:03:10.501Z",
+    "updatedAt": "2025-11-05T02:03:34.598Z",
     "status": "published",
     "publishedAt": "2025-11-05T01:08:53.925Z"
   }
