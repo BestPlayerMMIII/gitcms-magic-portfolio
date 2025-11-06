@@ -9,6 +9,14 @@
     "updatedAt": "2025-09-18T12:50:21.854Z"
   },
   "fields": {
+    "metadata": {
+      "type": "object",
+      "label": "Metadata",
+      "required": true,
+      "properties": {},
+      "schemaRef": "post-metadata",
+      "description": "Custom metadata to personalize even more your blog posts"
+    },
     "header": {
       "type": "object",
       "label": "Header",
@@ -22,14 +30,6 @@
       "label": "Content",
       "required": true,
       "description": "The main content of the blog"
-    },
-    "metadata": {
-      "type": "object",
-      "label": "Metadata",
-      "required": true,
-      "properties": {},
-      "schemaRef": "post-metadata",
-      "description": "Custom metadata to personalize even more your blog posts"
     }
   }
 }
