@@ -4,11 +4,11 @@
   "data": {
     "fun-facts": [
       {
-        "content": "I fell in love with fantasy at age 11 with Harry Potter, and now I’m deep in Game of Thrones and The Lord of the Rings. Apparently, my childhood taste for magic turned into a lifelong subscription to dragons and political intrigue.",
+        "content": "Harry Potter was the gateway. Now I devour the heavy tomes of Westeros and Middle-earth. A lifelong addiction to ink, dragons, and complex plots.",
         "category": "personal"
       },
       {
-        "content": "I played piano for 4 years and clarinet for 2. So yes, I can both hit a perfect chord and hit the wrong note with style. My musical skills are now “vintage”",
+        "content": "I played piano for 4 years and clarinet for 2. But my musical skills are now... \"vintage\"",
         "category": "personal"
       },
       {
@@ -68,7 +68,7 @@
   "metadata": {
     "id": "fun-facts",
     "createdAt": "2025-10-29T23:23:21.048Z",
-    "updatedAt": "2025-11-08T00:38:33.304Z",
+    "updatedAt": "2025-11-29T17:53:25.703Z",
     "status": "published",
     "publishedAt": "2025-10-30T00:19:30.825Z"
   }
