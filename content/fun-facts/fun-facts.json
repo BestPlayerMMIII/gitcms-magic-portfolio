@@ -4,7 +4,7 @@
   "data": {
     "fun-facts": [
       {
-        "content": "Harry Potter was the gateway. Now I devour the heavy tomes of Westeros and Middle-earth. A lifelong addiction to ink, dragons, and complex plots.",
+        "content": "Harry Potter was the gateway. Now I devour the heavy tomes of Westeros and Middle-earth: a lifelong addiction to ink, dragons, and complex plots.",
         "category": "personal"
       },
       {
@@ -68,7 +68,7 @@
   "metadata": {
     "id": "fun-facts",
     "createdAt": "2025-10-29T23:23:21.048Z",
-    "updatedAt": "2025-11-29T17:53:25.703Z",
+    "updatedAt": "2025-12-06T11:30:32.688Z",
     "status": "published",
     "publishedAt": "2025-10-30T00:19:30.825Z"
   }
