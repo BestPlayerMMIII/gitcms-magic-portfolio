@@ -1,0 +1,44 @@
+{
+  "id": "tic-tac-toe-ai",
+  "schemaId": "blog-post",
+  "data": {
+    "metadata": {
+      "priority": 1
+    },
+    "header": {
+      "title": "How to Never Lose Tic Tac Toe Again",
+      "excerpt": "Tic Tac Toe is a solved game, thus it has a known optimal strategy.\nWith perfect play from both sides, the game ends in a draw.\nThat means you can memorize a compact set of practical rules and never lose!\n\nIn this blog I explain how I discovered it, and you'll find out how a perfect player thinks through an interactive and intuitive demo.",
+      "image": {
+        "id": "media_2061323566_trispng",
+        "filename": "tris.png",
+        "originalName": "tris.png",
+        "path": "media/tris.png",
+        "size": 114428,
+        "mimeType": "image/gif",
+        "mediaType": "image",
+        "url": "https://raw.githubusercontent.com/BestPlayerMMIII/gitcms-magic-portfolio/main/media/tris.png",
+        "thumbnailUrl": "data:image/webp;base64,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\n1TgAAAG1AAA=\n",
+        "metadata": {},
+        "uploadedAt": "2026-03-25T14:25:21.048Z",
+        "uploadedBy": "unknown",
+        "repository": {
+          "owner": "BestPlayerMMIII",
+          "repo": "gitcms-magic-portfolio"
+        }
+      },
+      "tags": [
+        "ai",
+        "game-theory",
+        "minimax",
+        "tic-tac-toe"
+      ]
+    },
+    "content": ""
+  },
+  "metadata": {
+    "id": "tic-tac-toe-ai",
+    "createdAt": "2026-03-25T14:30:23.411Z",
+    "updatedAt": "2026-03-25T14:30:23.411Z",
+    "status": "draft"
+  }
+}
