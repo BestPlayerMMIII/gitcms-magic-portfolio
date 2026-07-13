@@ -8,7 +8,7 @@
         "category": "personal"
       },
       {
-        "content": "I played piano for 4 years and clarinet for 2, but my musical skills are now... \"vintage\"",
+        "content": "I played piano for 4 years and clarinet for 2. But my musical skills are now... \"vintage\"",
         "category": "personal"
       },
       {
@@ -16,7 +16,7 @@
         "category": "technical"
       },
       {
-        "content": "I wasn’t always sure I’d end up in computer engineering. A year before choosing that field @PoliMi, I dreamed of working in a chemistry lab, mixing chemicals and discovering the next big reaction.",
+        "content": "I wasn’t always sure I’d end up in computer engineering. A year before choosing that field at PoliMi, I dreamed of working in a chemistry lab, mixing chemicals and discovering the next big reaction.",
         "category": "personal"
       },
       {
@@ -68,7 +68,7 @@
   "metadata": {
     "id": "fun-facts",
     "createdAt": "2025-10-29T23:23:21.048Z",
-    "updatedAt": "2026-07-13T13:06:27.394Z",
+    "updatedAt": "2026-07-13T13:06:38.975Z",
     "status": "published",
     "publishedAt": "2025-10-30T00:19:30.825Z"
   }
