@@ -3,11 +3,45 @@
   "schemaId": "project",
   "data": {
     "header": {
-      "title": "QuestPulse"
+      "title": "QuestPulse",
+      "image": {
+        "id": "media_2041721391_questpulse",
+        "filename": "questpulse-logo.png",
+        "originalName": "questpulse-logo.png",
+        "path": "media/questpulse-logo.png",
+        "size": 9461,
+        "mimeType": "image/gif",
+        "mediaType": "image",
+        "url": "https://raw.githubusercontent.com/BestPlayerMMIII/gitcms-magic-portfolio/main/media/questpulse-logo.png",
+        "thumbnailUrl": "data:image/webp;base64,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\ncOvzdcYMPIxEFBwAAAAAAA==\n",
+        "metadata": {},
+        "uploadedAt": "2026-10-10T18:43:05.491Z",
+        "uploadedBy": "unknown",
+        "repository": {
+          "owner": "BestPlayerMMIII",
+          "repo": "gitcms-magic-portfolio"
+        }
+      },
+      "tags": [
+        "product-engineering",
+        "fake-door",
+        "mvp",
+        "gps",
+        "b2b-outreach"
+      ]
     },
-    "technologies": [],
+    "technologies": [
+      "nextjs",
+      "react",
+      "typescript",
+      "supabase",
+      "auth",
+      "postgresql",
+      "geolocation-api",
+      "i18n"
+    ],
     "githubUrl": "",
-    "liveUrl": "",
+    "liveUrl": "https://www.questpulse.app/",
     "overview": "",
     "content": "",
     "metadata": {}
@@ -15,7 +49,7 @@
   "metadata": {
     "id": "questpulse",
     "createdAt": "2026-10-10T18:40:03.689Z",
-    "updatedAt": "2026-10-10T18:40:03.689Z",
+    "updatedAt": "2026-10-10T18:56:34.410Z",
     "status": "draft"
   }
 }
