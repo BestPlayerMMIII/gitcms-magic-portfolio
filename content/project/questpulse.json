@@ -43,14 +43,14 @@
     ],
     "githubUrl": "",
     "liveUrl": "https://www.questpulse.app/",
-    "overview": "",
+    "overview": "<p>QuestPulse is a real-time web platform for creating, hosting, and tracking <strong>interactive GPS scavenger hunts</strong>. Players explore cities on their phones, solve clues, and unlock waypoints as they physically reach geofenced coordinates, while organizers monitor team progress and live leaderboards from a central control room using their device.</p><p>This started as an ad-hoc tool to help a friend organize a local event, but quickly turned into a deeper exploration of two things: building robust <strong>real-time software</strong> and <strong>testing product viability</strong>. Instead of building payments blindly, I set up a <em>fake-door experiment</em> and ran the unit economics to see if turning it into a paid SaaS was financially worth the fixed operational overhead, leading to a deliberate data-driven pivot to keep the platform free and open.</p>",
     "content": "",
     "metadata": {}
   },
   "metadata": {
     "id": "questpulse",
     "createdAt": "2026-10-10T18:40:03.689Z",
-    "updatedAt": "2026-10-10T19:07:47.557Z",
+    "updatedAt": "2026-10-10T19:14:19.937Z",
     "status": "draft"
   }
 }
