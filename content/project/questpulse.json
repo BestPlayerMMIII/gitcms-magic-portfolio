@@ -26,8 +26,8 @@
         "product-engineering",
         "fake-door",
         "mvp",
-        "gps",
-        "b2b-outreach"
+        "b2b-outreach",
+        "gps"
       ]
     },
     "technologies": [
@@ -49,7 +49,7 @@
   "metadata": {
     "id": "questpulse",
     "createdAt": "2026-10-10T18:40:03.689Z",
-    "updatedAt": "2026-10-10T18:56:34.410Z",
+    "updatedAt": "2026-10-10T18:57:00.018Z",
     "status": "draft"
   }
 }
