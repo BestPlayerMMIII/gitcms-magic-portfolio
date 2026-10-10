@@ -1,0 +1,21 @@
+{
+  "id": "questpulse",
+  "schemaId": "project",
+  "data": {
+    "header": {
+      "title": "QuestPulse"
+    },
+    "technologies": [],
+    "githubUrl": "",
+    "liveUrl": "",
+    "overview": "",
+    "content": "",
+    "metadata": {}
+  },
+  "metadata": {
+    "id": "questpulse",
+    "createdAt": "2026-10-10T18:40:03.689Z",
+    "updatedAt": "2026-10-10T18:40:03.689Z",
+    "status": "draft"
+  }
+}
