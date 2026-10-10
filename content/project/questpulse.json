@@ -28,7 +28,8 @@
         "mvp",
         "b2b-outreach",
         "gps"
-      ]
+      ],
+      "excerpt": "I initially created QuestPulse to help a friend organize an interactive scavenger hunt. Then I wondered: could this become a real business?\nFind out how I developed the platform and validated market demand to decide its future!"
     },
     "technologies": [
       "nextjs",
@@ -49,7 +50,7 @@
   "metadata": {
     "id": "questpulse",
     "createdAt": "2026-10-10T18:40:03.689Z",
-    "updatedAt": "2026-10-10T18:57:00.018Z",
+    "updatedAt": "2026-10-10T19:07:47.557Z",
     "status": "draft"
   }
 }
