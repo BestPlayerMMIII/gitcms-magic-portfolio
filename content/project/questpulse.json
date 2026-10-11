@@ -32,13 +32,13 @@
       "excerpt": "I initially created QuestPulse to help a friend organize an interactive scavenger hunt. Then I wondered: could this become a real business?\nHere’s how I built the platform, prepared it for monetization, and why the math convinced me to keep it free."
     },
     "technologies": [
-      "nextjs",
-      "react",
-      "typescript",
-      "supabase",
-      "auth",
-      "postgresql",
-      "geolocation-api",
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Supabase",
+      "Auth",
+      "PostgreSQL",
+      "Geolocation API",
       "i18n"
     ],
     "githubUrl": "",
@@ -50,7 +50,7 @@
   "metadata": {
     "id": "questpulse",
     "createdAt": "2026-10-10T18:40:03.689Z",
-    "updatedAt": "2026-10-10T23:54:15.612Z",
+    "updatedAt": "2026-10-11T00:12:58.759Z",
     "status": "published",
     "publishedAt": "2026-10-10T21:19:59.594Z"
   }
